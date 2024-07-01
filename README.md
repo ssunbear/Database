@@ -1,4 +1,4 @@
-# 2023 database project - StayHub
+# 2023 Database project - StayHub
 팀원: 최일성, 윤선웅
 
 ## 1. 프로젝트 개요
